@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SJ-3501-SMT")(type "KiCad")(uri "${KIPRJMOD}/libs/SJ-3501-SMT.kicad_sym")(options "")(descr ""))
+)
